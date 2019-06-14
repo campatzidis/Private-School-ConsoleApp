@@ -1,2 +1,0 @@
-# bySamsung
-test
